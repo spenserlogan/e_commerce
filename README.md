@@ -6,3 +6,5 @@ This mysql database and application is backend for a e-commerce site. It uses ex
 ## Installation
 To install this application, install node.js and mysql. Clone the repo, then run the command npm install, the simple run npm start.  
 
+![](assets/newgif1.gif)
+![](assets/newgif2.gif)
